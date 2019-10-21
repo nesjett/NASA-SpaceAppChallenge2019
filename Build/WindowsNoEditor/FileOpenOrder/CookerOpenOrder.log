@@ -1,0 +1,910 @@
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/LowPoly_Rigged_Hand_Left_Skeleton.uasset" 0
+"../../Plugins/Runtime/LeapMotion/Content/BodyState/BSLowPolyLeftAnimBP.uasset" 1
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/LowPoly_Rigged_Hand_Right_Skeleton.uasset" 2
+"../../Plugins/Runtime/LeapMotion/Content/BodyState/BSLowPolyRightAnimBP.uasset" 3
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/LoPolyHand_Color_Material.uasset" 4
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/TwoToneHandMaterial.uasset" 5
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/LowPoly_Rigged_Hand_Left_PhysicsAsset.uasset" 6
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/LowPoly_Rigged_Hand_Left.uasset" 7
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/LowPoly_Rigged_Hand_Right_PhysicsAsset.uasset" 8
+"../../Plugins/Runtime/LeapMotion/Content/Mesh/LowPoly_Rigged_Hand_Right.uasset" 9
+"../../Plugins/Runtime/LeapMotion/Content/BodyState/BSLowPolyHand.uasset" 10
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/LeapHandsPawn_2.uasset" 11
+"../../../Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset" 12
+"../../../Engine/Content/EngineMeshes/SkeletalCube.uasset" 13
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/VehicleBase.uasset" 14
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Grass/T_Grass_D.uasset" 15
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/T_Default_N.uasset" 16
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/M_DistanceMesh.uasset" 17
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/Textures/T_Desert_D.uasset" 18
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/Textures/T_Normal_N.uasset" 19
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/MI_Mountain_Generic_01_Desert.uasset" 20
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/Textures/T_Grass_D.uasset" 21
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/MI_Mountain_Generic_01_Grasslands.uasset" 22
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/Textures/T_Rock_D.uasset" 23
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/MI_Mountain_Generic_01_Rocky.uasset" 24
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/FuzzyShadingGrass.uasset" 25
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 26
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/Wind.uasset" 27
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 28
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 29
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.uasset" 30
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Wind/MF_GlobalWind.uasset" 31
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/M_Foliage_Master.uasset" 32
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Clouds/T_Clouds_D.uasset" 33
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Clouds/M_Clouds.uasset" 34
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Clouds/MI_Clouds_Fast.uasset" 35
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 36
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 37
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Fog/Textures/T_Cloud_01.uasset" 38
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Fog/M_FakeFog.uasset" 39
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Fog/Textures/T_White_D.uasset" 40
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Fog/Materials/MI_Cloud_01.uasset" 41
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Fog/Textures/T_Cloud_02.uasset" 42
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Fog/Materials/MI_Cloud_02.uasset" 43
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 44
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/AngleBetweenVectors.uasset" 45
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Decals/Textures/T_RadialGradient_Wide_O.uasset" 46
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Snow/T_Snowflows_D.uasset" 47
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Decals/M_Decals.uasset" 48
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Decals/M_Decals_Inst.uasset" 49
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/T_DefaultBlack_D.uasset" 50
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Decals/Materials/MI_WetnessDecal.uasset" 51
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Decals/Textures/T_RadialGradient_O.uasset" 52
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 53
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 54
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 55
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Darken.uasset" 56
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Lighten.uasset" 57
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 58
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/T_ErosionMask.uasset" 59
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Textures/T_CliffSurface_Snow_D.uasset" 60
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/M_NearMesh_Master.uasset" 61
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/Textures/T_Slab_01_N.uasset" 62
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Textures/T_CliffSurface_D.uasset" 63
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/MI_Pebbles_01.uasset" 64
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/S_Pebbles_01.uasset" 65
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/Textures/T_Slab_01_D.uasset" 66
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/MI_Cliff_Slab_01.uasset" 67
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/S_Cliff_Slab_01.uasset" 68
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/Textures/T_Slab_02_D.uasset" 69
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/Textures/T_Slab_02_N.uasset" 70
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/MI_Cliff_Slab_02.uasset" 71
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/S_Cliff_Slab_02.uasset" 72
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_DesertRocks.uasset" 73
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/MI_Pebbles_01_snow.uasset" 74
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/S_Pebbles_01_snow.uasset" 75
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/MI_Cliff_Slab_01_Snow.uasset" 76
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/S_Cliff_Slab_01_Snow.uasset" 77
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/MI_Cliff_Slab_02_Snow.uasset" 78
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/S_Cliff_Slab_02_Snow.uasset" 79
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_SnowRocks.uasset" 80
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_RocksSnow.uasset" 81
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/Desert_LayerInfo.uasset" 82
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/ForestDry_LayerInfo.uasset" 83
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/Forest_LayerInfo.uasset" 84
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/GrassDry_LayerInfo.uasset" 85
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/RockSlope_LayerInfo.uasset" 86
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/Slope_LayerInfo.uasset" 87
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/Snow_LayerInfo.uasset" 88
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Functions/MF_LandscapeBlend.uasset" 89
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Functions/MF_LandscapeCamera.uasset" 90
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Functions/MF_LandscapeTilingAndDistance.uasset" 91
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Default_Normals.uasset" 92
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Rock/T_RockLight_D.uasset" 93
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_RockLight.uasset" 94
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Desert/T_DesertGround_D.uasset" 95
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Desert/T_Desert_Ridges_N.uasset" 96
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Rock/T_Cliff_D.uasset" 97
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 98
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 99
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ScreenResolution.uasset" 100
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedUVs.uasset" 101
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/PostFX/Grain/T_FilmGrain.uasset" 102
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/PostFX/Grain/T_NoiseOffsets.uasset" 103
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/PostFX/Grain/M_Grain.uasset" 104
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/PostFX/Grain/MI_Grain.uasset" 105
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/PostFX/Grain/MI_Grain_High.uasset" 106
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/PostFX/Grain/MI_Grain_Low.uasset" 107
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/PostFX/Grain/MI_Grain_Medium.uasset" 108
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 109
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 110
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TransformToZVector.uasset" 111
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 112
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 113
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 114
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ParallaxOcclusionMapping.uasset" 115
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 116
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 117
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 118
+"../../../Engine/Content/MaterialTemplates/Textures/T_Noise01.uasset" 119
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Functions/MF_ObjectBlending.uasset" 120
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Mud/T_Mud_D.uasset" 121
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/T_Macro_NoTile.uasset" 122
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Roads/M_Road.uasset" 123
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Roads/MI_Road_Inst.uasset" 124
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 125
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 126
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 127
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 128
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/S_Skydome.uasset" 129
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/T_Skydome_Afternoon.uasset" 130
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/T_Skydome_Sunset_02_D.uasset" 131
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/T_Skydome_Sunset_04_D.uasset" 132
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/T_Skydome_Sunset_04_Mat.uasset" 133
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos.uasset" 134
+"../../../Engine/Content/Engine_MI_Shaders/T_Base_Tile_Normal.uasset" 135
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/ComplexMotion/Motion_4WayChaos_Normal.uasset" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/water_n.uasset" 137
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Water/Ocean/T_Water_D.uasset" 138
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Water/Ocean/M_Ocean.uasset" 139
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Water/Ocean/MI_Forest_Inst.uasset" 140
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Water/Ocean/MI_Ocean_Inst.uasset" 141
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Water/Ocean/S_Water.uasset" 142
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Rock_01/Textures/T_Rock_01_D.uasset" 143
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Rock_01/Textures/T_Rock_01_N.uasset" 144
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Rock_01/MI_Rock_02_Coast.uasset" 145
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/MI_Cliff_Slab_01_Coast.uasset" 146
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_01/MI_Cliff_Slab_01_Desert.uasset" 147
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/MI_Cliff_Slab_02_Coast.uasset" 148
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Textures/T_CliffSurface_Desert_D.uasset" 149
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_02/MI_Cliff_Slab_02_Desert.uasset" 150
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_03/Textures/T_Slab_03_D.uasset" 151
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_03/Textures/T_Slab_03_N.uasset" 152
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_03/MI_Cliff_Slab_03_Coast.uasset" 153
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_03/MI_Cliff_Slab_03_Desert.uasset" 154
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Textures/T_CliffSurface_N.uasset" 155
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Textures/T_CliffSurface_R.uasset" 156
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Collections/PlayerPosition.uasset" 157
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Grass/Textures/T_grass_vertexbending_D.uasset" 158
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/M_Grass_Master.uasset" 159
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 160
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Grass/Textures/T_Grass_D.uasset" 161
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/GrassDry/MI_GrassDry.uasset" 162
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/GrassDry/S_GrassDry.uasset" 163
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/GrassDry/FoliageTypes/FT_GrassDry.uasset" 164
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Grasslands/Cliffs/FoliageTypes/FT_Cliff_Slab_01.uasset" 165
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Grasslands/Cliffs/FoliageTypes/FT_Cliff_Slab_02.uasset" 166
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Grasslands/Cliffs_Small/Cliffs_Grasslands.uasset" 167
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Grasslands/Cliffs_Small/FoliageTypes/FT_Cliff_Slab_01.uasset" 168
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Grasslands/Cliffs_Small/FoliageTypes/FT_Cliff_Slab_02.uasset" 169
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_01.uasset" 170
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_02.uasset" 171
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_03.uasset" 172
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_04.uasset" 173
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_05.uasset" 174
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_06.uasset" 175
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_07.uasset" 176
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_08.uasset" 177
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_09.uasset" 178
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_10.uasset" 179
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_12.uasset" 180
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_13.uasset" 181
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_14.uasset" 182
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_15.uasset" 183
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_16.uasset" 184
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_17.uasset" 185
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/astronaut.uasset" 186
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/bolt_circle.uasset" 187
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/marker.uasset" 188
+"../../../Engine/Content/EngineResources/Black.uasset" 189
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset" 190
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/FX_Glow_12alpha.uasset" 191
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_09_Inst.uasset" 192
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset" 193
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uasset" 194
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uasset" 195
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Ambient/UI_MainMenu/P_BoilerSmoke.uasset" 196
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uasset" 197
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master.uasset" 198
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Textures/Glyph/T_TouchNegative.uasset" 199
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Materials/Glyph/M_TouchIndicator_Negative_INST.uasset" 200
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Ambient/UI_MainMenu/P_TouchIndicator_Negative.uasset" 201
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_starFlare_01.uasset" 202
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_01_INST.uasset" 203
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset" 204
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Textures/Gradient/T_SwipeTrail.uasset" 205
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Materials/Trails/M_ElementalBeam_01_INST.uasset" 206
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/ICE/P_Beam_Laser_Ice.uasset" 207
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/mesh_+_Samba_Dancing_Skeleton.uasset" 208
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/mesh_+_Samba_Dancing_Anim.uasset" 209
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/z2_Bump_s.uasset" 210
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/z2_Color_s.uasset" 211
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/z2_normal_s.uasset" 212
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/z2_Reflect_s.uasset" 213
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/z2_spec_color_s.uasset" 214
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/z2_spec_s.uasset" 215
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/DefaultMat.uasset" 216
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/Z2_Default.uasset" 217
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/ZBrushPolyMesh3DMat.uasset" 218
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/Z2_ZBrushPolyMesh3D.uasset" 219
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Basic_Wall.uasset" 220
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Pillar_50x500.uasset" 221
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_400x300.uasset" 222
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_400x400.uasset" 223
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_500x500.uasset" 224
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 225
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 226
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Collapse01.uasset" 227
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Collapse02.uasset" 228
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Explosion01.uasset" 229
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Explosion02.uasset" 230
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Fire01.uasset" 231
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Fire_Sparks01.uasset" 232
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Light01.uasset" 233
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Light01_Cue.uasset" 234
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Light02.uasset" 235
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Light02_Cue.uasset" 236
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Smoke01.uasset" 237
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Starter_Birds01.uasset" 238
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Starter_Music01.uasset" 239
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Starter_Wind05.uasset" 240
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Starter_Wind06.uasset" 241
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Steam01.uasset" 242
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Explosion_Cue.uasset" 243
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Burst_M.uasset" 244
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_Burst.uasset" 245
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 246
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 247
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 249
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 250
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 251
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 252
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 253
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/P_Explosion.uasset" 254
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 255
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 256
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 257
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Bush_D.uasset" 258
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Bush_N.uasset" 259
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Bush.uasset" 260
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Bush.uasset" 261
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Chair_M.uasset" 262
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Chair_N.uasset" 263
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Chair.uasset" 264
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Couch.uasset" 265
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Glass.uasset" 266
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Door_M.uasset" 267
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Door_N.uasset" 268
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Door.uasset" 269
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Door.uasset" 270
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 271
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 272
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 273
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 274
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 275
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 276
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_RockMesh_M.uasset" 277
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_RockMesh_N.uasset" 278
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Rock.uasset" 279
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Rock.uasset" 280
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Shelf_M.uasset" 281
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Shelf_N.uasset" 282
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Shelf.uasset" 283
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Shelf.uasset" 284
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Basic_Floor.uasset" 285
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Stairs.uasset" 286
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Cone.uasset" 287
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 288
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 289
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Pipe.uasset" 290
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 291
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 292
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Plane.uasset" 293
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Torus.uasset" 294
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Trim.uasset" 295
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 296
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 297
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 298
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Tube.uasset" 299
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 300
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 301
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 302
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Sound/Engine_Speed_01_Loop.uasset" 303
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Sound/Engine_Speed_03_Loop.uasset" 304
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Sound/Engine_Speed_05_Loop.uasset" 305
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 306
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 307
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 308
+"../../../Engine/Content/BasicShapes/Cone.uasset" 309
+"../../../Engine/Content/BasicShapes/Cube.uasset" 310
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 311
+"../../../Engine/Content/BasicShapes/Plane.uasset" 312
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 313
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 314
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 315
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 316
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 317
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 318
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 319
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 320
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 321
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 322
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 323
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 324
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 325
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 326
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 327
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 328
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 329
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 330
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 331
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 332
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 333
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 334
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 335
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 336
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 337
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 338
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 339
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 340
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 341
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 342
+"../../../Engine/Content/EditorResources/S_Note.uasset" 343
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 344
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 345
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 346
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 347
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 348
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 349
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 350
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 351
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 352
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 353
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 354
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 355
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 356
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 357
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 358
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 359
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 360
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 361
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 362
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 363
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 364
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 365
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 366
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 367
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 368
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 369
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 370
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 371
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 372
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 373
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 374
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 375
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 376
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 377
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 378
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 379
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 380
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 381
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 382
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 383
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 384
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 385
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 386
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 387
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 388
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 389
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 390
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 391
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 392
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 393
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 394
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 395
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 396
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 397
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 398
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 399
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 400
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 401
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 402
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 403
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 404
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 405
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 406
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 407
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 408
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 409
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 410
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 411
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 412
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 413
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 414
+"../../../Engine/Content/EngineSounds/Master.uasset" 415
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 417
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 418
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 419
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 420
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 421
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 422
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 423
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 424
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 425
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 426
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 427
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 428
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 429
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 430
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 431
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 432
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 433
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 434
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 435
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 436
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 437
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 438
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 439
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 440
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 441
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 442
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 443
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 444
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 445
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 446
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 447
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 448
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 449
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 450
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 451
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 452
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 453
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 454
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 455
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 456
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 457
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 458
+"../../Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset" 459
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 460
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 461
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 462
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 463
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 464
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 465
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 466
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/Walking.uasset" 467
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/Interactable.uasset" 468
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/nasa_definitivo_Skeleton.uasset" 469
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/nasa_definitivo_Anim.uasset" 470
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 471
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uasset" 472
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/textbox_bottom.uasset" 473
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/textbox_center.uasset" 474
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/textbox_top.uasset" 475
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/MenuExtended.uasset" 476
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/SelectMenu.uasset" 477
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/solarpanels.uasset" 478
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/nasa_obj_normals.uasset" 479
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/uvs.uasset" 480
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/Material_001.uasset" 481
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/nasa_definitivo_PhysicsAsset.uasset" 482
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/nasa_definitivo.uasset" 483
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/PlacaSolar.uasset" 484
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Vehicle/VehicleSkeleton.uasset" 485
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Vehicle/VehicleAnimationBlueprint.uasset" 486
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/LeapDesktopLowPoly1.uasset" 487
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/LeapDesktopActor_2.uasset" 488
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/MainChar.uasset" 489
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/HandsMat.uasset" 490
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/ICE/pointer_beam.uasset" 491
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Elemental/ICE/pointer_beam_end.uasset" 492
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/LeapDesktopLowPoly_Vehicle.uasset" 493
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/MainPlayerController.uasset" 494
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdvBP/Blueprints/VehicleAdvHud.uasset" 495
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/PhysicsMaterials/NonSlippery.uasset" 496
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/PhysicsMaterials/Slippery.uasset" 497
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Vehicle/WheelData/Vehicle_BackTireConfig.uasset" 498
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdvBP/Blueprints/WheelData/WheelBack.uasset" 499
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Vehicle/WheelData/Vehicle_FrontTireConfig.uasset" 500
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdvBP/Blueprints/WheelData/WheelFront.uasset" 501
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 502
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 503
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/lunarcar.uasset" 504
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Sound/Engine_att.uasset" 505
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Sound/Engine_Loop_Cue.uasset" 506
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Materials/Fixed_Template_Master.uasset" 507
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Materials/MaterialInstances/Template_BaseBlue.uasset" 508
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Vehicle/VehiclePhysicsAsset.uasset" 509
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdv/Vehicle/Vehicle_SkelMesh.uasset" 510
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/VehicleAdvBP/Blueprints/VehicleBlueprint.uasset" 511
+"../../../Engine/Content/EditorResources/S_Player.uasset" 512
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/battery.uasset" 513
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/bolt.uasset" 514
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/hand-drag1-circles.uasset" 515
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/hand-drag1-hand.uasset" 516
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/health.uasset" 517
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/line.uasset" 518
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/oxygen_.uasset" 519
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/InteractableIcon.uasset" 520
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/HUD/textures/empty.uasset" 521
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/mesh_+_Samba_Dancing_PhysicsAsset.uasset" 522
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/Astronaut/mesh_+_Samba_Dancing.uasset" 523
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/Astronaut.uasset" 524
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Blueprints/MainGameMode.uasset" 525
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Maps/Overview/Overview_sharedassets/Layer_01_LayerInfo.uasset" 526
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Maps/Overview/Overview_sharedassets/Layer_02_LayerInfo.uasset" 527
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Maps/Overview/Overview_sharedassets/Layer_03_LayerInfo.uasset" 528
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Maps/Overview/Overview_sharedassets/Layer_04_LayerInfo.uasset" 529
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Maps/TestMap_BuiltData.uasset" 530
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Rock_01/MI_Rock_02_Desert.uasset" 531
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Functions/F_Panner_Clouds.uasset" 532
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Clouds/T_Clouds_01_A.uasset" 533
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Clouds/M_Clouds.uasset" 534
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Clouds/MI_Clouds.uasset" 535
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Functions/F_DisplacementFade.uasset" 536
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Functions/F_DistanceFade.uasset" 537
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Functions/F_DistanceTessellation.uasset" 538
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Functions/F_FresnelCorrection.uasset" 539
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Detail/T_Detail_01_N.uasset" 540
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Functions/F_GlobalNormalVariation.uasset" 541
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Functions/F_MaskModifier.uasset" 542
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Tileables/T_Mud_01_A.uasset" 543
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Tileables/T_Mud_01_N.uasset" 544
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Seamless/F_Mud_01.uasset" 545
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Tileables/T_Rock_01_A.uasset" 546
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Tileables/T_Rock_01_N.uasset" 547
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Seamless/F_Rock_01.uasset" 548
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Tileables/T_Soil_01_A.uasset" 549
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Tileables/T_Soil_01_N.uasset" 550
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Seamless/F_Soil_01.uasset" 551
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Bakes/T_Landscape_Bake_A.uasset" 552
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/SplatMaps/T_Splatmap.uasset" 553
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Landscape/M_Landscape.uasset" 554
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Masks/T_Masks_01.uasset" 555
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Landscape/MI_Landscape.uasset" 556
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 557
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Rock_01/MI_Rock_01.uasset" 558
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Rock_01/S_Rock_01.uasset" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/DeriveHDRfromLDR.uasset" 560
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/Sky/T_Sky_01_A.uasset" 561
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Sky/M_Sky.uasset" 562
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Sky/MI_Sky.uasset" 563
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Meshes/SM_Sky.uasset" 564
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/HDU/HDU_01.uasset" 565
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/HDU/lambert2SG.uasset" 566
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/HDU/HDU_lowRez_part1.uasset" 567
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/HDU/HDU_02.uasset" 568
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/HDU/lambert3SG.uasset" 569
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/models/NASA/HDU/HDU_lowRez_part2.uasset" 570
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Maps/TestMap.umap" 571
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Snow/Cliffs/FoliageTypes/FT_Cliff_Slab_01.uasset" 572
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Snow/Cliffs/FoliageTypes/FT_Cliff_Slab_02.uasset" 573
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/MI_Pebbles_01_beach.uasset" 574
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/S_Pebbles_01_beach.uasset" 575
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_Beach.uasset" 576
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Clovers/MI_Clovers.uasset" 577
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Clovers/S_Clovers_01.uasset" 578
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Flowers/MI_Flowers.uasset" 579
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Flowers/S_Flower_02_Blue.uasset" 580
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Flowers/S_Flower_02_Pink.uasset" 581
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Flowers/S_Flower_02_Yellow.uasset" 582
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Flowers/S_Flowers_01_Large.uasset" 583
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Flowers/S_Flowers_01_Small.uasset" 584
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Grass/MI_Grass.uasset" 585
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Grass/S_Grass.uasset" 586
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_Forest.uasset" 587
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Clovers/S_Clovers_02.uasset" 588
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_Grass.uasset" 589
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/MI_Pebbles_01_DRY.uasset" 590
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/S_Pebbles_01_dry.uasset" 591
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 592
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Clovers/MI_Clovers_Dry.uasset" 593
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Clovers/S_Clovers_01_Dry.uasset" 594
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Clovers/S_Clovers_02_Dry.uasset" 595
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Grass/MI_GrassDry.uasset" 596
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Foliage/Ground/Grass/S_GrassDry.uasset" 597
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_GrassDry.uasset" 598
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/MI_Pebbles_01_mud.uasset" 599
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Pebbles_01/S_Pebbles_01_mud.uasset" 600
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_Mud.uasset" 601
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_Rocks.uasset" 602
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/Beach_LayerInfo.uasset" 603
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/Desert_LayerInfo.uasset" 604
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/Dunes_LayerInfo.uasset" 605
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/Forest_LayerInfo.uasset" 606
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/ForestDry_LayerInfo.uasset" 607
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/Grass_LayerInfo.uasset" 608
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/GrassDry_LayerInfo.uasset" 609
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/Mud_LayerInfo.uasset" 610
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Layerinfos/Snow_LayerInfo.uasset" 611
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/LayerInfos/Grass_LayerInfo.uasset" 612
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Multi-Biome_BuiltData.uasset" 613
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/GrassTypes/LG_Snow.uasset" 614
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/SlopeMask.uasset" 615
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_ColorBurn.uasset" 616
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Beach/T_Beach_N.uasset" 617
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Beach_Normals.uasset" 618
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Beach/T_Beach_D.uasset" 619
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Beach.uasset" 620
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Rock/T_RockFace_01_N.uasset" 621
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Rock_Normals.uasset" 622
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Textures/T_CliffSurface_Coast_D.uasset" 623
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_CoastRock.uasset" 624
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Desert/T_Desert_N.uasset" 625
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Desert/T_DesertRock_DetailN.uasset" 626
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Desert_Normals.uasset" 627
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Desert/T_DeserRock_Detail_D.uasset" 628
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Desert/T_Desert_D.uasset" 629
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Desert.uasset" 630
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_DesertRock_Normals.uasset" 631
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Desert/T_DesertRidges_D.uasset" 632
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_DesertRidges.uasset" 633
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Dunes/T_Dunes_N.uasset" 634
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Dunes_Normals.uasset" 635
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Dunes/T_Dunes_D.uasset" 636
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Dunes.uasset" 637
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Forest/T_Forest_Detail_N.uasset" 638
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Forest/T_Forest_N.uasset" 639
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Forest_Normals.uasset" 640
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Forest/T_Forest_D.uasset" 641
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Forest/T_Forest_Detail_D.uasset" 642
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Forest.uasset" 643
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Forest/T_ForestDry_D.uasset" 644
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Grass/T_Grass_Detail_D.uasset" 645
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_ForestDry.uasset" 646
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Grass/T_Grass_Detail_N.uasset" 647
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Grass/T_Grass_N.uasset" 648
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Grass_Normals.uasset" 649
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Grass.uasset" 650
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Grass/T_GrassDry_D.uasset" 651
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Grass/T_GrassDry_Detail_D.uasset" 652
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_GrassDry.uasset" 653
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Mud/T_Mud_H.uasset" 654
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Mud/T_MudDistance_H.uasset" 655
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Mud_Height.uasset" 656
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Mud/T_Mud_N.uasset" 657
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Mud_Normals.uasset" 658
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Mud/T_Mud_R.uasset" 659
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Mud/T_MudDistance_R.uasset" 660
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Mud_Roughness.uasset" 661
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Mud/T_MudDistance_D.uasset" 662
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Mud.uasset" 663
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Rock/T_Rock_D.uasset" 664
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Rock.uasset" 665
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_RockSnow_Normals.uasset" 666
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_RockSnow.uasset" 667
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Textures/Snow/T_Snow_D.uasset" 668
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Snow.uasset" 669
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Functions/MF_LandscapeLayers.uasset" 670
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Functions/MF_Tessellation.uasset" 671
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/Materials/MF_Noise.uasset" 672
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/M_Landscape.uasset" 673
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/MaterialOverrides/MI_Landscape_distance.uasset" 674
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Clouds/MI_Clouds_Slow.uasset" 675
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Landscape/MI_Landscape.uasset" 676
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/T_Skydome_Cloudy_D.uasset" 677
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/M_SkyHDR.uasset" 678
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/T_Skydome_Sunset_D.uasset" 679
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Materials/Sky/MI_SkyHDR_Inst.uasset" 680
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 681
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Grasslands/Cliffs/Cliffs_Grasslands.uasset" 682
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Procedural/Snow/Cliffs/Cliffs_Snow.uasset" 683
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/Multi-Biome/Multi-Biome.umap" 684
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 685
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 686
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 687
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 688
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 689
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 690
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 691
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 692
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 693
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/SnowShader/SnowShader_BuiltData.uasset" 694
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Rock_01/MI_Rock_02_Snow.uasset" 695
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_03/MI_Cliff_Slab_03_Snow.uasset" 696
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/Textures/T_Snow_D.uasset" 697
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/MI_Mountain_Generic_01_Snow.uasset" 698
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/DistanceMeshes/Mountain_Generic_01/S_Mountain_Generic_01.uasset" 699
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_03/MI_Cliff_Slab_03.uasset" 700
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Meshes/Cliffs/Meshes/Slab_03/S_Cliff_Slab_03.uasset" 701
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/Brushify/Maps/SnowShader/SnowShader.umap" 702
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Post/M_Sharpen.uasset" 703
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Materials/Post/MI_Sharpen.uasset" 704
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/HDRI/T_Neutral_HDRI.uasset" 705
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Textures/PostProcess/LUT/T_LUT_11.uasset" 706
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/DeadHillsLandscape/Maps/Overview/Overview.umap" 707
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 708
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 709
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 710
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 711
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 712
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 713
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 714
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 715
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 716
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 717
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 718
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 719
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 720
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_AssetPlatform.uasset" 721
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 722
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 723
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 724
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 725
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 726
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 727
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 728
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 729
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Maps/Advanced_Lighting.umap" 730
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 731
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_MacroVariation.uasset" 732
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 733
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 734
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 735
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 736
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 737
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Metal_Copper.uasset" 738
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Statue_M.uasset" 739
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Statue_N.uasset" 740
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 741
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Floor_400x400.uasset" 742
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 743
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Chair.uasset" 744
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Statue.uasset" 745
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Statue.uasset" 746
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_TableRound_M.uasset" 747
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_TableRound_N.uasset" 748
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_TableRound.uasset" 749
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_TableRound.uasset" 750
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Maps/Minimal_Default.umap" 751
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Fire01_Cue.uasset" 752
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 753
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 754
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 755
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Water_N.uasset" 756
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 757
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 758
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/P_Fire.uasset" 759
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 760
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Smoke01_Cue.uasset" 761
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/P_Smoke.uasset" 762
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 763
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 764
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Spark_Core.uasset" 765
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_Spark.uasset" 766
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/P_Sparks.uasset" 767
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 768
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Steam01_Cue.uasset" 769
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/P_Steam_Lit.uasset" 770
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 771
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Lamp_M.uasset" 772
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Lamp_N.uasset" 773
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Lamp.uasset" 774
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 775
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 776
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 777
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 778
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 779
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 780
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 781
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 782
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 783
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 784
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 785
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 786
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 787
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 788
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 789
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 790
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 791
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 792
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 793
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 794
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 795
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 796
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 797
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 798
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 799
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 800
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 801
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 802
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 803
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 804
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 805
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 806
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 807
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 808
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Gradinet_01.uasset" 809
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 810
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 811
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 812
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 813
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 814
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 815
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 816
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 817
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 818
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 819
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 820
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 821
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 822
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 823
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 824
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 825
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 826
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 827
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 828
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 829
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 830
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 831
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Ground_Grass.uasset" 832
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 833
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 834
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 835
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 836
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 837
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Ground_Moss.uasset" 838
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 839
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 840
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Metal_Gold.uasset" 841
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 842
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Metal_Rust.uasset" 843
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 844
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 845
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Metal_Steel.uasset" 846
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 847
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 848
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 849
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 850
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 851
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 852
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 853
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 854
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Rock_Slate.uasset" 855
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 856
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 857
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 858
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 859
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 860
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 861
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 862
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 863
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 864
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 865
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 866
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Tech_Panel.uasset" 867
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Water_Lake.uasset" 868
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Water_M.uasset" 869
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Water_Ocean.uasset" 870
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 871
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 872
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 873
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 874
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 875
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 876
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 877
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 878
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Wood_Oak.uasset" 879
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 880
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 881
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Wood_Pine.uasset" 882
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 883
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 884
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 885
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_400x200.uasset" 886
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 887
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 888
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Collapse_Cue.uasset" 889
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 890
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 891
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 892
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 893
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/MaterialSphere.uasset" 894
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Frame_M.uasset" 895
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Textures/T_Frame_N.uasset" 896
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/Materials/M_Frame.uasset" 897
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_CornerFrame.uasset" 898
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_DoorFrame.uasset" 899
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_GlassWindow.uasset" 900
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_PillarFrame.uasset" 901
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_PillarFrame300.uasset" 902
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Props/SM_WindowFrame.uasset" 903
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Cube.uasset" 904
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 905
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Shapes/Shape_Sphere.uasset" 906
+"../../../../../../Users/Nestor/Documents/Unreal Projects/NASA2019_bk3/Content/StarterContent/Maps/StarterMap.umap" 907
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 908
+"../../../Engine/Content/Maps/Entry.umap" 909
