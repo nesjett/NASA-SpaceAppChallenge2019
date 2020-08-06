@@ -13,7 +13,7 @@ and [Marcos Urios](https://marcosurios.com)
 
 [![Video preview 1](https://j.gifs.com/ANk7j7.gif)](https://www.youtube.com/watch?v=2ytr35p4DNo)
 
-[![Video preview 2](https://j.gifs.com/3QD0B4.gif)](https://www.youtube.com/watch?v=2ytr35p4DNo)
+[![Video preview 2](https://j.gifs.com/lx4mQ7.gif)](https://www.youtube.com/watch?v=2ytr35p4DNo)
 
 
 
