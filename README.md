@@ -1,15 +1,16 @@
 # NASA Space Apps Challenge 2019
-## 3rd place awarded repository
+## 3rd place + Best use of hardware awards
 
-More info: https://nsabater.com/nasa-space-apps-challenge-2019-3rd-place-award
+More info at [Nestor Sabater's portfolio](https://nsabater.com/nasa-space-apps-challenge-2019-3rd-place-award)
 
 Developed with Unreal Engine 4 + Leap Motion
-By Nestor Sabater: https://nsabater.com
-and Marcos Urios: https://marcosurios.com
+By [Nestor Sabater](https://nsabater.com)
+and [Marcos Urios](https://marcosurios.com)
 
 ------------------------------------------  
 
 Demo video: https://www.youtube.com/watch?v=2ytr35p4DNo
+[![Video preview 1](https://gifs.com/gif/nasa-space-apps-challenge-2019-hong-kong-71K7vG?muted=false)]
 
 ![](https://nsabater.com/wp-content/uploads/2019/10/Screenshot_44-1024x556.png)
 
