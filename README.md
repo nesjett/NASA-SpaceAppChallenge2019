@@ -42,6 +42,8 @@ This interactions can be actually be performed in the real world, thanks to Mach
 You can read more about this kind of setups here: [Project north star blog](http://blog.leapmotion.com/north-star-open-source/)
 
 
+![](https://github.com/nesjett/NASA-SpaceAppChallenge2019/blob/master/descarga%20(3).png?raw=true)
+
 
 ### Winning photo
 ![](https://nsabater.com/wp-content/uploads/2019/10/1020_4-min-1024x768.jpg)
