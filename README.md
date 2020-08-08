@@ -34,5 +34,14 @@ The rest of the models and environments have been developed by the team itself.
 ### Environment screenshot
 ![](https://nsabater.com/wp-content/uploads/2019/10/Screenshot_44-1024x556.png)
 
+###The idea
+The idea behind the project is to experiment and showcase with new types of interactions. We choosed astronauts as it may be more usefull to them, but this could be used for heavy machinery or ingeneering positions aswell.
+
+This interactions can be actually be performed in the real world, thanks to Machine Learning and Deep learning to recognice things, plug a set of devices like leap motion, project north star and some other cameras for deph checking, capturing and recognition.
+
+You can read more about this kind of setups here: [Project north star blog](http://blog.leapmotion.com/north-star-open-source/)
+
+
+
 ### Winning photo
 ![](https://nsabater.com/wp-content/uploads/2019/10/1020_4-min-1024x768.jpg)
